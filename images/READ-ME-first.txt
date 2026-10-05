@@ -1,0 +1,51 @@
+IMAGE FOLDER — CURRENT STATUS
+=============================
+
+All 20 photos currently in this folder are AI-generated stand-ins created
+for this page. They look like real product and factory shots, but they are
+NOT photographs of your actual shoes or your actual workshop.
+
+Recommendation: keep them while you collect real photos, then replace them
+one by one. Buyers and agents will eventually ask for a video call tour, so
+the factory shots (knit-line, assembly-line, qc-check, packing,
+container-loading, warehouse) matter most for trust.
+
+HOW TO REPLACE
+--------------
+1. Save your real photo with exactly the same filename below (JPG).
+2. Overwrite the file in this folder.
+3. Re-upload the folder / re-publish the page.
+Nothing else needs to change in index.html.
+
+  hero-factory.jpg          1100 x 825    hero: knitting floor with uppers
+  product-01.jpg             900 x 900    crew sock sneaker (black)
+  product-02.jpg             900 x 900    running knit trainer (navy)
+  product-03.jpg             900 x 900    women's slip-on (beige)
+  product-04.jpg             900 x 900    kids sock shoe (red)
+  product-05.jpg             900 x 900    chunky sole trainer (black)
+  product-06.jpg             900 x 900    men's casual knit (charcoal)
+  product-07.jpg             900 x 900    knit slide & slipper
+  product-08.jpg             900 x 900    team / club colourways (3 pairs)
+  logo-heattransfer.jpg     1100 x 733    heat press logo application
+  logo-jacquard.jpg         1100 x 733    knit-in woven label on collar
+  logo-sole.jpg             1100 x 733    tread pattern on rubber outsole
+  custom-mould.jpg          1100 x 733    sample table, soles and yarn
+  knit-line.jpg             1100 x 825    flyknit machines and yarn creels
+  cutting-line.jpg          1100 x 733    sewing / upper assembly
+  assembly-line.jpg         1100 x 733    conveyor assembly line
+  qc-check.jpg              1100 x 733    inspector checking a finished pair
+  packing.jpg               1100 x 733    boxing and carton packing
+  container-loading.jpg     1100 x 733    container stuffing at the dock
+  warehouse.jpg             1100 x 733    stock racks for fast restock
+
+SHOOTING TIPS FOR YOUR OWN PHOTOS
+---------------------------------
+* Product shots: white or light grey background, shoe at a 3/4 angle, one
+  pair per photo, shoot near a window or under a soft light, square crop.
+* Factory shots: turn the lights on, shoot down the machine rows, include
+  workers' hands in frame, landscape orientation.
+* Keep real brand names and other customers' logos out of the frame.
+* Compress to under 300 KB per photo (JPEG quality 80) — the page is opened
+  mostly on mobile data in Ghana.
+* If you prefer different filenames, open index.html and change the
+  matching src="images/xxx.jpg" line.
